@@ -6,3 +6,9 @@
 /WpfApp1/obj/debug/
 /WpfApp1/v15/
 /.vs/
+
+*.lock
+*.suo
+*.ide
+*.ide-shm
+*.ide-wal
