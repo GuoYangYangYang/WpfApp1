@@ -1,0 +1,7 @@
+##################
+#####     WPF    #####
+##################
+
+/WpfApp1/bin/debug/
+/WpfApp1/obj/debug/
+/WpfApp1/v15/
